@@ -42,5 +42,5 @@
 <h2>Conclusão</h2>
 <p>Este projeto de sorteio de amigo secreto é uma aplicação prática e divertida que demonstra conceitos fundamentais de desenvolvimento web. Ele combina a manipulação do DOM, interatividade com eventos e lógica de programação em JavaScript, criando uma experiência dinâmica e funcional. Além de ser um exercício prático para reforçar habilidades em HTML, CSS e JavaScript, o projeto pode ser expandido com novas funcionalidades, como salvar os resultados ou permitir o sorteio de múltiplos amigos. É uma ótima demonstração de conhecimentos técnicos e criatividade! 🚀</p>
 
-<p>LINK: https://devideos.github.io/challegeAmigoSecreto/</p>
+<a href="https://devideos.github.io/challegeAmigoSecreto/" target="_blank" class="externo">Acesse a Pagina</a>
 
